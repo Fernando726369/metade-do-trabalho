@@ -1,0 +1,45 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.Caixa{
+    border: 1px solid black;
+    width: 330px;
+    height: 500px;  
+    margin: auto;
+}
+.foto1{
+    border: 1px solid black;
+    width: 150px;
+    height: 150px; 
+}
+a{
+    border: 1px solid black;
+    width: 200px;
+    height: 150px; 
+    padding-inline: 13px;
+   margin-bottom: 3px;
+}
+.Nome{
+    border: 1px solid black;
+    margin-bottom: 15px;
+}
+.cargo{
+    border: 1px solid black;
+    margin-bottom: 15px;
+}
+
+.email{
+    border: 1px solid black;
+    margin-bottom: 15px;
+}
+.pp{
+    border: 1px solid black;
+    margin-bottom: 35px;
+}
+.sp{
+    border: 1px solid black;
+    margin-top: 20px;
+}
